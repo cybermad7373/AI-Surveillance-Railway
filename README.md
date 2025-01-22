@@ -57,7 +57,7 @@ By combining advanced AI techniques with live camera feeds, this solution provid
 
 ---
 
-## 📂 Project Structure  
+## 📂 Project Structure  (expected to be in this struct )
 ```plaintext  
 Railway-AI-Security/  
 ├── data/               # Sample data for testing the system  
